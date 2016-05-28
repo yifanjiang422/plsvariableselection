@@ -1,0 +1,6 @@
+{
+  "name": "Plsvariableselection",
+  "tagline": "simulation for variable selection using PLS",
+  "body": "### Welcome to GitHub Pages.\r\nThis page contains my progress on my R code for my PhD project. Current code is made to run simulations of PLS variable selection algorithms with mixed data types. \r\n\r\n### Authors and Contributors\r\nThe content of the codes is based on some of the existing R packages. The modifications are made so that different algorithms can be linked together to handle both categorical and numerical codes. Below is a list of Authors who created some of the original functions:\r\n1. Dr. Benoit Liquet\r\n2. Dr. Beaton Derek\r\n3. Dr. Russolillo, Giorgio\r\n4. Dr. Le Cao\r\n\r\nA special thanks is given to Dr. Yoni Nazarathy for his contribution on the correction of mathematical theory of the code. \r\n\r\n\r\n### Support or Contact\r\nPlease contact yifan.jiang422@gmail.com for suggestions and problems. ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
